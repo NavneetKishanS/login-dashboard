@@ -1,0 +1,27 @@
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e4e9f2;
+  }
+  
+  .dashboard-box {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  p {
+    color: #555;
+    font-size: 16px;
+    text-align: center;
+  }
+  
