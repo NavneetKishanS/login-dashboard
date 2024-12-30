@@ -11,7 +11,7 @@ This is a simple React-based dashboard application with login functionality. Upo
 
 ## Deployed Link
 
-The app is deployed and available for access [here]https://login-dashboard-gray.vercel.app/) .
+The app is deployed and available for access [here](https://login-dashboard-gray.vercel.app/) .
 
 ---
 
